@@ -1,1 +1,188 @@
-theme: jekyll-theme-midnight
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Joy Marie Navales
+title: Mobile Developer
+email: jmlnavz12@gmail.com
+website: https://github.com/osakalawliet/
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+# twitter_username: facespics
+github_username:  osakalawliet
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: joymarie.navz
+linkedin_username: joy-marie-navales-9ab973198
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Joy and I make mobile applications.
+
+  I am most skilled in: <mark>Android</mark> and <mark>iOS</mark> native development.
+
+content:
+  #- title: Projects # Title for the section
+   # layout: list # Type of content section (list/text)
+    #content:
+     # - layout: top-middle
+      #  title: Super awesome project
+       # link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+         # - title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #description: | # this will include new lines to allow paragraphs
+        #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: ClinkIT Solutions
+        link: https://www.clinkitsolutions.com/
+        link_text: clinkitsolutions.com
+        sub_title: Mobile Developer
+        caption: October 2020 - Present
+        quote: >
+          ClinkIT creates proven business solutions by providing software, hardware, and services to more than 100 startups and multinational clients worldwide.
+        description: | # this will include new lines to allow paragraphs
+          • Using Kotlin, Swift, and SwiftUI for building native applications in MVVM architecture.
+          
+          • Creating custom applications for courier services.
+
+          • Practicing leadership skills. 
+
+
+      - layout: left
+        title: BBO Co., LTD – Philippine Branch
+        link: https://en.bbo.com.ph/
+        link_text: bbo.com.ph
+        sub_title: Mobile App Developer
+        caption: January 2019 - November 2020
+        quote: >
+          Bbo is a mobile and web design and development agency that is founded on strong business ethics and is driven by dynamic and results-oriented professional web developers from the Philippines and Japan.
+        description: | # this will include new lines to allow paragraphs
+          • Used android in Java, Kotlin, Swift, and Objective-c for building native applications in MVP architecture.
+
+      - layout: left
+        title: Sidekick Digital Limited
+        link: https://www.sidekickdigital.co.uk/
+        link_text: sidekickdigital.co.uk
+        sub_title: Mobile App Developer
+        caption: June 2017 - December 2018
+        quote: >
+          Solve big challenges, build great mobile apps, work better together.
+        description: | # this will include new lines to allow paragraphs
+          • Used android in Java and Swift for building native applications.
+
+          • Worked on projects using Bluetooth LE technology.
+
+
+      - layout: left
+        title: Geniihut Technologies
+        link: https://www.geniihut.com/
+        link_text: geniihut.com
+        sub_title: Mobile Developer
+        caption: February 2015 - January 2016
+        quote: >
+          Genii Hut Technologies Corporation is a company mainly focused on the development of productivity oriented software and applications based on mobile platforms.
+        description: | # this will include new lines to allow paragraphs
+          • Started developing iOS applications using Objective-c.
+
+          • Used android in Java and Objective-c for building native applications.
+          
+
+      - layout: left
+        title: NEXTIX
+        link: https://www.nextixsystems.com/
+        link_text: nextixsystems.com
+        sub_title: Junior Software Developer
+        caption: April 2014 - January 2015
+        quote: >
+          NEXTIX is an award winning technology company  focused on next generation positive impact digital platforms.
+
+        description: | # this will include new lines to allow paragraphs
+          • Began my mobile developer career using android.
+
+          • Used android in Java to build native applications.
+
+
+
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Cebu Institute Of Technology - University
+        caption: 2010 - 2014
+        sub_title: BS Computer Science
+        quote: >
+          University is an institution that provides quality education having granted with Autonomous Status in 2016 and recognized as Center of Excellence in Information Technology Education since 2007. It has produced a total of 689 Board Topnotchers and 80 First Placers in Licensure Examinations in Engineering, Architecture, Education, Accountancy and Nursing.
+        description: | # this will include new lines to allow paragraphs
+          During my time at CIT, I learned most of my programming fundamental skills that have I have taken throughout my career. I thoroughly enjoyed my time as a university student and learned a lot about technology, teamwork, and communication with other people.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in software engineering, some of my other interests and hobbies are:
+      - Travelling
+      - Trekking
+      - Gaming
+      - Coffees and Teas
+      - [Experiencing onsen](https://www.youtube.com/watch?v=AUtxQs_fsIA)
+
+      Look at this cool image taken from the internet
+
+      ![Trees](/modern-resume-theme/images/onsen.jpeg "Onsen")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
