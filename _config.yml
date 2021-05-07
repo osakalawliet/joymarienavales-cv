@@ -84,11 +84,11 @@ content:
         quote: >
           ClinkIT creates proven business solutions by providing software, hardware, and services to more than 100 startups and multinational clients worldwide.
         description: | # this will include new lines to allow paragraphs
-          • Using Kotlin, Android Jetpack, Swift, and SwiftUI for building native applications in MVVM architecture.
+          - Using Kotlin, Android Jetpack, Swift, and SwiftUI for building native applications in MVVM architecture.
           
-          • Creating custom applications for courier services.
+          - Creating custom applications for courier services.
 
-          • Practicing leadership skills. 
+          - Practicing leadership skills. 
 
 
       - layout: left
@@ -100,9 +100,9 @@ content:
         quote: >
           Bbo is a mobile and web design and development agency that is founded on strong business ethics and is driven by dynamic and results-oriented professional web developers from the Philippines and Japan.
         description: | # this will include new lines to allow paragraphs
-          • Started developing with Kotlin.
+          - Started developing with Kotlin.
 
-          • Used Android in Java, Kotlin, Swift, and Objective-c for building native applications in MVP architecture.
+          - Used Android in Java, Kotlin, Swift, and Objective-c for building native applications in MVP architecture.
 
       - layout: left
         title: Sidekick Digital Limited
@@ -113,11 +113,11 @@ content:
         quote: >
           Solve big challenges, build great mobile apps, work better together.
         description: | # this will include new lines to allow paragraphs
-          • Started developing with Swift.
+          - Started developing with Swift.
 
-          • Used Android in Java and Swift for building native applications.
+          - Used Android in Java and Swift for building native applications.
 
-          • Worked on projects using Bluetooth LE technology.
+          - Worked on projects using Bluetooth LE technology.
 
 
       - layout: left
@@ -129,9 +129,9 @@ content:
         quote: >
           Genii Hut Technologies Corporation is a company mainly focused on the development of productivity oriented software and applications based on mobile platforms.
         description: | # this will include new lines to allow paragraphs
-          • Started developing iOS applications using Objective-c.
+          - Started developing iOS applications using Objective-c.
 
-          • Used Android in Java and Objective-c for building native applications.
+          - Used Android in Java and Objective-c for building native applications.
           
 
       - layout: left
@@ -144,9 +144,9 @@ content:
           NEXTIX is an award winning technology company  focused on next generation positive impact digital platforms.
 
         description: | # this will include new lines to allow paragraphs
-          • Began my mobile developer career using android.
+          - Began my mobile developer career using android.
 
-          • Used Android in Java for building native applications.
+          - Used Android in Java for building native applications.
 
 
 
