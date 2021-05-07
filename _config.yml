@@ -102,7 +102,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           • Started developing with Kotlin.
 
-          • Used android in Java, Kotlin, Swift, and Objective-c for building native applications in MVP architecture.
+          • Used Android in Java, Kotlin, Swift, and Objective-c for building native applications in MVP architecture.
 
       - layout: left
         title: Sidekick Digital Limited
@@ -115,7 +115,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           • Started developing with Swift.
 
-          • Used android in Java and Swift for building native applications.
+          • Used Android in Java and Swift for building native applications.
 
           • Worked on projects using Bluetooth LE technology.
 
@@ -131,7 +131,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           • Started developing iOS applications using Objective-c.
 
-          • Used android in Java and Objective-c for building native applications.
+          • Used Android in Java and Objective-c for building native applications.
           
 
       - layout: left
@@ -146,7 +146,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           • Began my mobile developer career using android.
 
-          • Used android in Java for building native applications.
+          • Used Android in Java for building native applications.
 
 
 
