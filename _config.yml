@@ -48,9 +48,9 @@ linkedin_username: joy-marie-navales-9ab973198
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Joy and I make mobile applications.
+  Hi! My name's Joy and I make mobile applications.
 
-  I am most skilled in: <mark>Android</mark> and <mark>iOS</mark> native development.
+  I am most skilled in <mark>Android</mark> and <mark>iOS</mark> native development.
 
 content:
   #- title: Projects # Title for the section
@@ -84,7 +84,7 @@ content:
         quote: >
           ClinkIT creates proven business solutions by providing software, hardware, and services to more than 100 startups and multinational clients worldwide.
         description: | # this will include new lines to allow paragraphs
-          • Using Kotlin, Swift, and SwiftUI for building native applications in MVVM architecture.
+          • Using Kotlin, Android Jetpack, Swift, and SwiftUI for building native applications in MVVM architecture.
           
           • Creating custom applications for courier services.
 
@@ -100,6 +100,8 @@ content:
         quote: >
           Bbo is a mobile and web design and development agency that is founded on strong business ethics and is driven by dynamic and results-oriented professional web developers from the Philippines and Japan.
         description: | # this will include new lines to allow paragraphs
+          • Started developing with Kotlin.
+
           • Used android in Java, Kotlin, Swift, and Objective-c for building native applications in MVP architecture.
 
       - layout: left
@@ -111,6 +113,8 @@ content:
         quote: >
           Solve big challenges, build great mobile apps, work better together.
         description: | # this will include new lines to allow paragraphs
+          • Started developing with Swift.
+
           • Used android in Java and Swift for building native applications.
 
           • Worked on projects using Bluetooth LE technology.
@@ -155,9 +159,9 @@ content:
         caption: 2010 - 2014
         sub_title: BS Computer Science
         quote: >
-          University is an institution that provides quality education having granted with Autonomous Status in 2016 and recognized as Center of Excellence in Information Technology Education since 2007. It has produced a total of 689 Board Topnotchers and 80 First Placers in Licensure Examinations in Engineering, Architecture, Education, Accountancy and Nursing.
+          CIT University is an institution that provides quality education having granted with Autonomous Status in 2016 and recognized as Center of Excellence in Information Technology Education since 2007. 
         description: | # this will include new lines to allow paragraphs
-          During my time at CIT, I learned most of my programming fundamental skills that have I have taken throughout my career. I thoroughly enjoyed my time as a university student and learned a lot about technology, teamwork, and communication with other people.
+          During my time at CIT University, I learned most of my programming fundamental skills that I have taken throughout my career. I thoroughly enjoyed my time as a university student and learned a lot about technology, teamwork, and communication with other people.
 
   - title: A Little More About Me
     layout: text
