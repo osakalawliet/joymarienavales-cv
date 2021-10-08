@@ -48,12 +48,18 @@ linkedin_username: joy-marie-navales-9ab973198
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! My name's Joy and I make mobile applications.
+  Hi! My name's Joy and I make mobile applications. 
 
   I am most skilled in <mark>Android</mark> and <mark>iOS</mark> native development.
-
+  
+  I am also developing websites using Wordpress and minimal experience in React.
+  
+  I also contributed to some projects using Flutter.
+  
+  I love exploring and studying new things and I aspire to learn more and more about the field of technology.
+  
 content:
-  #- title: Projects # Title for the section
+#   - title: Projects # Title for the section
    # layout: list # Type of content section (list/text)
     #content:
      # - layout: top-middle
