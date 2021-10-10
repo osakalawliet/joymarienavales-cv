@@ -113,8 +113,8 @@ content:
         title: PhishCloud
         link: https://wordpress.phishcloud.com/
         link_text: Project Website
-        quote: > This is where i mostly learned my PHP, JavaScript, CSS, HTML, React, and WordPress skills.
-          
+        quote: > 
+         This is where i mostly learned my PHP, JavaScript, CSS, HTML, React, and WordPress skills.     
         description: |  # this will include new lines to allow paragraphs
           
           <center><div>
