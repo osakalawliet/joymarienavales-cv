@@ -160,9 +160,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Using Kotlin, Android Jetpack, Swift, and SwiftUI for building native applications in MVVM architecture.
           
+          - Developing using WordPress, PHP, HTML, CSS, JavaScript, React andTypeScript
+          
           - Creating custom applications for courier services.
 
           - Practicing leadership skills. 
+          
+          - Trained fellow developers.
 
 
       - layout: left
