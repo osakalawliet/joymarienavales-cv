@@ -54,10 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am also developing websites using Wordpress and some experience in React, JavaScript, and PHP.
   
-  I also contributed to some projects using Flutter.
-  
-  I love exploring and studying new things and I aspire to learn more and more about the field of technology.
-  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
