@@ -72,7 +72,7 @@ content:
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
           
           <center><div>
-          <img src="/digital-cv/images/Maxview1.webp"> ![Maxview2](/digital-cv/images/Maxview2.webp "Maxview2") ![Maxview3](/digital-cv/images/Maxview3.webp "Maxview3") ![Maxview4](/digital-cv/images/Maxview4.webp "Maxview4")
+          <img src="/digital-cv/images/Maxview1.webp" alt="Maxview1"> <img src="/digital-cv/images/Maxview2.webp" alt="Maxview2"> <img src="/digital-cv/images/Maxview3.webp" alt="Maxview3"> <img src="/digital-cv/images/Maxview4.webp" alt="Maxview4">
           </div></center>
           
   - title: Experience # Title for the section
