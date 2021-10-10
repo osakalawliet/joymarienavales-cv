@@ -63,34 +63,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Maxview Connect
-        link: https://apps.apple.com/us/app/maxview-connect/id1357251422
-        link_text: App Store
-        quote: >
-         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: |  # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-          
-          <center><div class="images-container">
-          <style>
-            div.images-container img {
-              width: 230px;
-              height: 498px;
-              object-fit: contain;
-            }
-            
-            .img-right {
-              margin-left: 20px;
-            }
-            
-            .img-bottom {
-              margin-top: 20px;
-            }
-          </style>
-          
-          <img src="/digital-cv/images/Maxview1.webp" alt="Maxview1"> <img src="/digital-cv/images/Maxview2.webp" alt="Maxview2" class="img-right"> <img src="/digital-cv/images/Maxview3.webp" alt="Maxview3" class="img-right"> <img src="/digital-cv/images/Maxview4.webp" alt="Maxview4" class="img-right">
-          </div></center>
-      - layout: top-middle
         title: ベコ-ベビー写真を可愛くデコ
         link: https://apps.apple.com/jp/app/id1477450497
         link_text: App Store
@@ -117,6 +89,34 @@ content:
           <img src="/digital-cv/images/JRS1.jpeg" alt="JRS1"> <img src="/digital-cv/images/JRS2.jpeg" alt="JRS2" class="img-right"> <img src="/digital-cv/images/JRS3.jpeg" alt="JRS3" class="img-right"> <img src="/digital-cv/images/JRS4.jpeg" alt="JRS4" class="img-right">
           </div></center>
           
+      - layout: top-middle
+        title: Maxview Connect
+        link: https://apps.apple.com/us/app/maxview-connect/id1357251422
+        link_text: App Store
+        quote: >
+         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: |  # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          
+          <center><div class="images-container">
+          <style>
+            div.images-container img {
+              width: 230px;
+              height: 498px;
+              object-fit: contain;
+            }
+            
+            .img-right {
+              margin-left: 20px;
+            }
+            
+            .img-bottom {
+              margin-top: 20px;
+            }
+          </style>
+          
+          <img src="/digital-cv/images/Maxview1.webp" alt="Maxview1"> <img src="/digital-cv/images/Maxview2.webp" alt="Maxview2" class="img-right"> <img src="/digital-cv/images/Maxview3.webp" alt="Maxview3" class="img-right"> <img src="/digital-cv/images/Maxview4.webp" alt="Maxview4" class="img-right">
+          </div></center>    
       - layout: top-middle
         title: PhishCloud
         link: https://wordpress.phishcloud.com/
