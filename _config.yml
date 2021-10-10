@@ -73,9 +73,10 @@ content:
           
           <center><div>
           <style>
-            img {
+            div.images-container img {
               width: 230px;
               height: 498px;
+              object-fit: contain;
             }
           </style>
           
@@ -90,14 +91,7 @@ content:
         description: |  # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
           
-          <center><div>
-          <style>
-            img {
-              width: 230px;
-              height: 498px;
-              object-fit: contain;
-            }
-          </style>
+          <center><div class="images-container">
           
           <img src="/digital-cv/images/beco1.webp" alt="beco1"> <img src="/digital-cv/images/beco2.webp" alt="beco2"> <img src="/digital-cv/images/beco3.webp" alt="beco3"> <img src="/digital-cv/images/beco4.webp" alt="beco4">
           </div></center>
