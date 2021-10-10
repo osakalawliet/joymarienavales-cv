@@ -97,10 +97,9 @@ content:
               width: 230px;
               height: 498px;
               object-fit: contain;
-            }
-            
-            .img-right {
-              margin-left: 20px;
+              margin-left: 10px;
+              margin-right: 10px;
+              margin-top: 20px;
             }
             
             .img-bottom {
