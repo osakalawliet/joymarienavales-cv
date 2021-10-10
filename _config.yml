@@ -63,9 +63,8 @@ content:
         link: https://apps.apple.com/jp/app/id1477450497
         link_text: App Store
         quote: >
-         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+         This is probably one of the challenging iOS app I have contributed.
         description: |  # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
           
           <center><div class="images-container">
           
@@ -76,9 +75,8 @@ content:
         link: https://www.jrs-express.com/https://thirdwaveoutsourcing.com/
         link_text: Website
         quote: >
-         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+         This is one of the projects where I developed using reactive programming.
         description: |  # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
           
           <center><div class="images-container">
           
@@ -90,9 +88,8 @@ content:
         link: https://apps.apple.com/us/app/maxview-connect/id1357251422
         link_text: App Store
         quote: >
-         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+         Probably one of the most challenging projects I made where I integrated the Bluetooth LE API.
         description: |  # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
           
           <center><div class="images-container">
           <style>
@@ -117,10 +114,9 @@ content:
         title: PhishCloud
         link: https://wordpress.phishcloud.com/
         link_text: Project Website
-        quote: >
-         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: > This is where i mostly learned my PHP, JavaScript, CSS, HTML, React, and WordPress skills.
+          
         description: |  # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
           
           <center><div>
           
@@ -133,9 +129,8 @@ content:
         link: https://thirdwaveoutsourcing.com/
         link_text: Project Website
         quote: >
-         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+         This is one of the sites I have maintained and where I started developing in WordPress.
         description: |  # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
           
           <center><div>
           
