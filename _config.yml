@@ -104,9 +104,9 @@ content:
           <img src="/digital-cv/images/beco1.webp" alt="beco1"> <img src="/digital-cv/images/beco2.webp" alt="beco2" class="img-right"> <img src="/digital-cv/images/beco3.webp" alt="beco3" class="img-right"> <img src="/digital-cv/images/beco4.webp" alt="beco4" class="img-right">
           </div></center>
       - layout: top-middle
-        title:JRS Mobile
-        link: https://www.jrs-express.com/
-        link_text: Project Website
+        title: JRS Mobile
+        link: https://www.jrs-express.com/https://thirdwaveoutsourcing.com/
+        link_text: Website
         quote: >
          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: |  # this will include new lines to allow paragraphs
@@ -118,8 +118,8 @@ content:
           </div></center>
           
       - layout: top-middle
-        title: Super awesome project
-        link: https://apps.apple.com/us/app/maxview-connect/id1357251422
+        title: PhishCloud
+        link: https://wordpress.phishcloud.com/
         link_text: Project Website
         quote: >
          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
@@ -133,8 +133,8 @@ content:
           </div></center>
           
       - layout: top-middle
-        title: Super awesome project
-        link: https://apps.apple.com/us/app/maxview-connect/id1357251422
+        title: 3rd Wave Outsourcing
+        link: https://thirdwaveoutsourcing.com/
         link_text: Project Website
         quote: >
          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
