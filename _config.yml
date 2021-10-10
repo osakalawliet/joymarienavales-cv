@@ -109,6 +109,21 @@ content:
           <img src="/digital-cv/images/JRS1.jpeg" alt="JRS1"> <img src="/digital-cv/images/JRS2.jpeg" alt="JRS2"> <img src="/digital-cv/images/JRS3.jpeg" alt="JRS3"> <img src="/digital-cv/images/JRS4.jpeg" alt="JRS4">
           </div></center>
           
+      - layout: top-middle
+        title: Super awesome project
+        link: https://apps.apple.com/us/app/maxview-connect/id1357251422
+        link_text: Project Website
+        quote: >
+         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: |  # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          
+          <center><div>
+          
+          <img src="/digital-cv/images/phishcloud1.png" alt="phishcloud1">
+          <img src="/digital-cv/images/phishcloud2.png" alt="phishcloud2">
+          </div></center>
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
