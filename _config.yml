@@ -157,6 +157,10 @@ content:
           - Practicing leadership skills. 
           
           - Trained fellow developers.
+          
+          - Used CI/CD Azure DevOps Pipeline.
+          
+          - Used XCTest for Unit Testing.
 
 
       - layout: left
