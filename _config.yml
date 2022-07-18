@@ -58,6 +58,19 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: top-middle
+        title: Inspectorio Sight
+        link: https://apps.apple.com/ph/app/inspectorio-sight/id1533620438
+        link_text: App Store
+        quote: >
+         The largest Saas application I have contributed.
+        description: |  # this will include new lines to allow paragraphs
+          
+          <center><div class="images-container">
+          
+          <img src="/digital-cv/images/InspectorioSight1.PNG" alt="inspectorio-sight-1"> <img src="/digital-cv/images/InspectorioSight2.PNG" alt="inspectorio-sight-2" class="img-right"> <img src="/digital-cv/images/InspectorioSight3.PNG" alt="inspectorio-sight-3" class="img-right"> <img src="/digital-cv/images/InspectorioSight4.PNG" alt="inspectorio-sight-4" class="img-right">
+          </div></center>
+          
       - layout: top-middle
         title: ベコ-ベビー写真を可愛くデコ
         link: https://apps.apple.com/jp/app/id1477450497
@@ -139,14 +152,14 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: ClinkIT Solutions
-        link: https://www.clinkitsolutions.com/
-        link_text: clinkitsolutions.com
-        sub_title: Mobile Developer
-        caption: October 2020 - Present
+    - layout: left
+        title: Inspectorio, Inc.
+        link: https://inspectorio.com
+        link_text: inspectorio.com
+        sub_title: Mobile Engineer
+        caption: January 2022 - Present
         quote: >
-          ClinkIT creates proven business solutions by providing software, hardware, and services to more than 100 startups and multinational clients worldwide.
+          The Inspectorio Platform helps Brands, Retailers, Vendors and Factories to improve their Quality, Compliance and Delivery operations through actionable insights and data-driven collaboration.
         description: | # this will include new lines to allow paragraphs
           - Using Kotlin, Android Jetpack, Swift, and SwiftUI for building native applications in MVVM architecture.
           
@@ -161,6 +174,36 @@ content:
           - Used CI/CD Azure DevOps Pipeline.
           
           - Used XCTest for Unit Testing.
+          
+      - layout: left
+        title: ClinkIT Solutions
+        link: https://www.clinkitsolutions.com/
+        link_text: clinkitsolutions.com
+        sub_title: Mobile Developer
+        caption: October 2020 - January 2022
+        quote: >
+          ClinkIT creates proven business solutions by providing software, hardware, and services to more than 100 startups and multinational clients worldwide.
+        description: | # this will include new lines to allow paragraphs
+          - Using Swift and RxSwift for building native Saas  applications
+          
+          - Using MVVM, Factory, Abstract Factory, View Model Input-Output Pattern, Facade, Singleton, Command, State, Strategy and Proxy for design pattern
+          
+          - Using XCTest, Nimble and Cuckoo for unit testing
+          
+          - Using Fastlane and Bitrise for CI/CD
+          
+          - Using JIRA for Sprints
+          
+          - Heavily uses Realm in the in-house applications
+          
+          - Daily stand-up meeting with the team
+          
+          - Practices merge request review and approval within the team
+          
+          - Works closely with the Product Owner and the QA team
+          
+          - Applied design patterns and coding guidelines for clean, readable, and maintainable codes.
+
 
 
       - layout: left
