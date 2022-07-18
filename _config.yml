@@ -161,29 +161,6 @@ content:
         quote: >
           The Inspectorio Platform helps Brands, Retailers, Vendors and Factories to improve their Quality, Compliance and Delivery operations through actionable insights and data-driven collaboration.
         description: | # this will include new lines to allow paragraphs
-          - Using Kotlin, Android Jetpack, Swift, and SwiftUI for building native applications in MVVM architecture.
-          
-          - Developing using WordPress, PHP, HTML, CSS, JavaScript, React andTypeScript
-          
-          - Creating custom applications for courier services.
-
-          - Practicing leadership skills. 
-          
-          - Trained fellow developers.
-          
-          - Used CI/CD Azure DevOps Pipeline.
-          
-          - Used XCTest for Unit Testing.
-          
-      - layout: left
-        title: ClinkIT Solutions
-        link: https://www.clinkitsolutions.com/
-        link_text: clinkitsolutions.com
-        sub_title: Mobile Developer
-        caption: October 2020 - January 2022
-        quote: >
-          ClinkIT creates proven business solutions by providing software, hardware, and services to more than 100 startups and multinational clients worldwide.
-        description: | # this will include new lines to allow paragraphs
           - Using Swift and RxSwift for building native Saas  applications
           
           - Using MVVM, Factory, Abstract Factory, View Model Input-Output Pattern, Facade, Singleton, Command, State, Strategy and Proxy for design pattern
@@ -203,8 +180,29 @@ content:
           - Works closely with the Product Owner and the QA team
           
           - Applied design patterns and coding guidelines for clean, readable, and maintainable codes.
+          
+      - layout: left
+        title: ClinkIT Solutions
+        link: https://www.clinkitsolutions.com/
+        link_text: clinkitsolutions.com
+        sub_title: Mobile Developer
+        caption: October 2020 - January 2022
+        quote: >
+          ClinkIT creates proven business solutions by providing software, hardware, and services to more than 100 startups and multinational clients worldwide.
+        description: | # this will include new lines to allow paragraphs
+          - Using Kotlin, Android Jetpack, Swift, and SwiftUI for building native applications in MVVM architecture.
+          
+          - Developing using WordPress, PHP, HTML, CSS, JavaScript, React andTypeScript
+          
+          - Creating custom applications for courier services.
 
-
+          - Practicing leadership skills. 
+          
+          - Trained fellow developers.
+          
+          - Used CI/CD Azure DevOps Pipeline.
+          
+          - Used XCTest for Unit Testing.   
 
       - layout: left
         title: BBO Co., LTD – Philippine Branch
