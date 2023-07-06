@@ -81,19 +81,8 @@ content:
         description: |  # this will include new lines to allow paragraphs
           
           <center><div class="images-container">
-
-          <style>
-            div.images-container img {
-              height: 498px;
-              width: 100%;
-              object-fit: cover;
-              margin-left: 10px;
-              margin-right: 10px;
-              margin-top: 20px;
-            }
-          </style>
           
-          <img src="/digital-cv/images/RiseMobile1.webp" alt="inspectorio-rise-1"> <img src="/digital-cv/images/RiseMobile2.webp" alt="inspectorio-rise-2" class="img-right">
+          <img src="/digital-cv/images/RiseMobile1.webp" alt="inspectorio-rise-1"> <img src="/digital-cv/images/RiseMobile2.png" alt="inspectorio-rise-2" class="img-right">  <img src="/digital-cv/images/RiseMobile3.png" alt="inspectorio-rise-3" class="img-right">
           </div></center>
           
       - layout: top-middle
