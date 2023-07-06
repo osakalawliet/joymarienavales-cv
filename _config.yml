@@ -82,12 +82,14 @@ content:
           
           <center>
 
-          .row.centered {
-            height: 498px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-          }  
+          <style>
+            .row.centered {
+              height: 498px;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+            }  
+          </style>
           <div class="row centered">
           
           <img src="/digital-cv/images/RiseMobile1.webp" alt="inspectorio-rise-1"> <img src="/digital-cv/images/RiseMobile2.webp" alt="inspectorio-rise-2" class="img-right">
