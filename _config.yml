@@ -103,7 +103,7 @@ content:
         link: https://www.jrs-express.com/
         link_text: Website
         quote: >
-         This is one of the projects where I developed using reactive programming.
+         This is one of the projects in which I implemented reactive programming.
         description: |  # this will include new lines to allow paragraphs
           
           <center><div class="images-container">
@@ -156,7 +156,7 @@ content:
         link: https://thirdwaveoutsourcing.com/
         link_text: Project Website
         quote: >
-         This is one of the sites I have maintained and where I started developing in WordPress.
+         This is one of the websites I have managed and where I began my development journey with WordPress.
         description: |  # this will include new lines to allow paragraphs
           
           <center><div>
@@ -186,23 +186,23 @@ content:
           
           - Using JIRA for Sprints
           
-          - Heavily uses Realm in the in-house applications
+          - Leverages Realm extensively within the SaaS application.
           
           - Daily stand-up meeting with the team
           
           - Practices merge request review and approval within the team
           
-          - Works closely with the Product Owner and the QA team
+          - Collaborates closely with the Product Owner and the QA team
           
-          - Applied design patterns and coding guidelines for clean, readable, and maintainable codes.
+          - Implemented design patterns and adhered to coding guidelines to ensure the production of clean, readable, and maintainable code.
           
-          - Pair programming with teammates
+          - Engaging in pair programming sessions with fellow teammates
           
-          - Handling interviews
+          - Conducting and managing interviews
           
           - Experience in Agile Scrum Methodology
           
-          - Writing documents for spike stories
+          - Creating documents for spike stories
           
       - layout: left
         title: ClinkIT Solutions
@@ -215,13 +215,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Using Kotlin, Android Jetpack, Swift, and SwiftUI for building native applications in MVVM architecture.
           
-          - Developing using WordPress, PHP, HTML, CSS, JavaScript, React andTypeScript
+          - Developed and maintained websites with  WordPress, HTML, CSS, PHP, JavaScript, and React
           
-          - Creating custom applications for courier services.
+          - Developed bespoke applications tailored for courier services.
+          
+          - Assumed responsibility for overseeing and mentoring junior developers.
 
-          - Practicing leadership skills. 
+          - Practicing leadership skills.
           
-          - Trained fellow developers.
+          - Implemented design patterns and adhered to coding guidelines to ensure the production of clean, readable, and maintainable code.
+
+          - Actively participates in client meetings, offering enhanced project solutions and recommendations.
+
+          - Provided training and guidance to developers.
           
           - Used CI/CD Azure DevOps Pipeline.
           
@@ -236,9 +242,27 @@ content:
         quote: >
           Bbo is a mobile and web design and development agency that is founded on strong business ethics and is driven by dynamic and results-oriented professional web developers from the Philippines and Japan.
         description: | # this will include new lines to allow paragraphs
-          - Started developing with Kotlin.
 
           - Used Android in Java, Kotlin, Swift, and Objective-c for building native applications in MVP architecture.
+
+          - Developed custom mobile applications including image editing and video generation apps.
+
+          - Managed both android and iOS applications lifecycle from research and planning through deployment and post-launch support.
+
+          - Assumed responsibility for overseeing and mentoring junior developers.
+
+          - Applied various techniques to locate bugs and errors in applications like using instruments for iOS apps for detecting memory leaks.
+
+          - Provided weekly/daily progress reports to the team and executive staff and informed applicable parties of upcoming milestones.
+
+          - Implemented design patterns and adhered to coding guidelines to ensure the production of clean, readable, and maintainable code.
+
+          - Reviewed and approved pull requests from team members.
+
+          - Published applications to App Store and Google Play.
+          
+          - Also worked on MetalKit, Firebase, AVfoundation, and Nearby messages.
+
 
       - layout: left
         title: Sidekick Digital Limited
@@ -249,11 +273,17 @@ content:
         quote: >
           Solve big challenges, build great mobile apps, work better together.
         description: | # this will include new lines to allow paragraphs
-          - Started developing with Swift.
-
-          - Used Android in Java and Swift for building native applications.
-
-          - Worked on projects using Bluetooth LE technology.
+          - Used android in Java and Swift for building native applications.
+          
+          - Conducted research and successfully developed native applications utilizing Bluetooth LE technology, such as a remote for satellite dish control
+          
+          - Provided daily or weekly progress reports to the team.
+          
+          - Independently executed end-to-end app development, from inception to release.
+          
+          - Conducted thorough testing of the application on hardware to ensure proper functionality before conducting a final review, addressing any issues efficiently
+          
+          - Published the app to the App Store and Google Play.
 
 
       - layout: left
@@ -265,10 +295,26 @@ content:
         quote: >
           Genii Hut Technologies Corporation is a company mainly focused on the development of productivity oriented software and applications based on mobile platforms.
         description: | # this will include new lines to allow paragraphs
-          - Started developing iOS applications using Objective-c.
-
-          - Used Android in Java and Objective-c for building native applications.
+          - Used android in Java and Objective-c for building native applications.
           
+          - Developed tailored native mobile applications by leveraging technologies like Google Maps, sockets, and SQLite.
+          
+          - Built custom views such as calendars.
+          
+          - Developed visual prototypes for internal projects.
+          
+          - Assumed the role of supervision and provided training to a junior developer.
+          
+          - Managed and supported internally-developed applications
+          
+          - Managed all aspects of Android app lifecycle from research and planning through deployment and post-launch support.
+          
+          - Played a major role in layout modifications to improve functionality.
+          
+          - Published an application to the App Store.
+          
+          - Worked on Core Data, google maps, sockets  and API integration.
+ 
 
       - layout: left
         title: NEXTIX
@@ -280,11 +326,15 @@ content:
           NEXTIX is an award winning technology company  focused on next generation positive impact digital platforms.
 
         description: | # this will include new lines to allow paragraphs
-          - Began my mobile developer career using android.
-
-          - Used Android in Java for building native applications.
-
-
+          - Used android in Java to build native applications.
+          
+          - Primarily tasked with integrating social media APIs.
+          
+          - Built tailor-made mobile applications utilizing native technologies.
+          
+          - Conducted thorough software testing and debugging before deploying the application.
+          
+          - Provided weekly progress reports to the team and senior developers.
 
 
   - title: Education # Title for the section
@@ -299,7 +349,9 @@ content:
         quote: >
           CIT University is an institution that provides quality education having granted with Autonomous Status in 2016 and recognized as Center of Excellence in Information Technology Education since 2007. 
         description: | # this will include new lines to allow paragraphs
-          During my time at CIT University, I learned most of my programming fundamental skills that I have taken throughout my career. I thoroughly enjoyed my time as a university student and learned a lot about technology, teamwork, and communication with other people.
+          During my tenure at CIT University, I acquired the foundational programming skills that have greatly influenced my career trajectory. My university experience was immensely enjoyable, providing me with valuable insights into technology, teamwork, and effective communication.
+
+
 
   - title: A Little More About Me
     layout: text
