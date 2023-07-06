@@ -80,20 +80,12 @@ content:
          The largest Saas application I have contributed.
         description: |  # this will include new lines to allow paragraphs
           
-          <center>
-
-          <style>
-            .row.centered {
-              height: 498px;
-              display: flex;
-              align-items: center;
-              justify-content: center;
-            }  
-          </style>
-          <div class="row centered">
+          <center><div class="images-container">
 
           <style>
             div.images-container img {
+              height: 498px;
+              aspect-ratio: 1 / 1;
               object-fit: contain;
               margin-left: 10px;
               margin-right: 10px;
@@ -143,7 +135,7 @@ content:
             div.images-container img {
               width: 230px;
               height: 498px;
-              object-fit: fill;
+              object-fit: contain;
               margin-left: 10px;
               margin-right: 10px;
               margin-top: 20px;
