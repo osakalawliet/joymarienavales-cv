@@ -59,6 +59,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Inspectorio Rise
+        link: https://inspectorio.com/solutions/rise-mobile/
+        link_text: Website
+        quote: >
+         The largest Saas application I have contributed.
+        description: |  # this will include new lines to allow paragraphs
+          
+          <center><div class="images-container">
+          
+          <img src="/digital-cv/images/RiseMobile1.webp" alt="inspectorio-rise-1"> <img src="/digital-cv/images/RiseMobile2.webp" alt="inspectorio-rise-2" class="img-right">
+          </div></center>
+    
+      - layout: top-middle
         title: Inspectorio Sight
         link: https://apps.apple.com/ph/app/inspectorio-sight/id1533620438
         link_text: App Store
