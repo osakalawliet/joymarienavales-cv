@@ -136,7 +136,7 @@ content:
             div.images-container img {
               width: 230px;
               height: 498px;
-              object-fit: contain;
+              object-fit: fill;
               margin-left: 10px;
               margin-right: 10px;
               margin-top: 20px;
