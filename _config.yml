@@ -187,9 +187,9 @@ content:
         quote: >
           The Inspectorio Platform helps Brands, Retailers, Vendors and Factories to improve their Quality, Compliance and Delivery operations through actionable insights and data-driven collaboration.
         description: | # this will include new lines to allow paragraphs
-          - Using Swift and RxSwift for building native Saas  applications
+          - Using Swift, SwiftUI and RxSwift for building native Saas applications
           
-          - Using MVVM, Factory, Abstract Factory, View Model Input-Output Pattern, Facade, Singleton, Command, State, Strategy and Proxy for design pattern
+          - Using Clean Architecture, MVVM, Factory, Abstract Factory, View Model Input-Output Pattern, Facade, Singleton, Command, State, Strategy and Proxy
           
           - Using XCTest, Nimble and Cuckoo for unit testing
           
@@ -206,6 +206,14 @@ content:
           - Works closely with the Product Owner and the QA team
           
           - Applied design patterns and coding guidelines for clean, readable, and maintainable codes.
+          
+          - Pair programming with teammates
+          
+          - Handling interviews
+          
+          - Experience in Agile Scrum Methodology
+          
+          - Writing documents for spike stories
           
       - layout: left
         title: ClinkIT Solutions
