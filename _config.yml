@@ -86,7 +86,7 @@ content:
           <style>
             div.images-container img {
               height: 498px;
-              width: 100%;
+              max-width: 100%;
               object-fit: contain;
               margin-left: 10px;
               margin-right: 10px;
