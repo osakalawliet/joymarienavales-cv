@@ -91,6 +91,15 @@ content:
             }  
           </style>
           <div class="row centered">
+
+          <style>
+            div.images-container img {
+              object-fit: contain;
+              margin-left: 10px;
+              margin-right: 10px;
+              margin-top: 20px;
+            }
+          </style>
           
           <img src="/digital-cv/images/RiseMobile1.webp" alt="inspectorio-rise-1"> <img src="/digital-cv/images/RiseMobile2.webp" alt="inspectorio-rise-2" class="img-right">
           </div></center>
