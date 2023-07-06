@@ -80,18 +80,15 @@ content:
          The largest Saas application I have contributed.
         description: |  # this will include new lines to allow paragraphs
           
-          <center><div class="images-container">
-          
-          <style>
-            div.images-container img {
-              max-height: 498px;
-              max-width: 100%;
-              object-fit: contain;
-              margin-left: 10px;
-              margin-right: 10px;
-              margin-top: 20px;
-            }
-          </style>
+          <center>
+
+          .row.centered {
+            height: 498px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          }  
+          <div class="row centered">
           
           <img src="/digital-cv/images/RiseMobile1.webp" alt="inspectorio-rise-1"> <img src="/digital-cv/images/RiseMobile2.webp" alt="inspectorio-rise-2" class="img-right">
           </div></center>
@@ -108,6 +105,7 @@ content:
           
           <img src="/digital-cv/images/beco1.webp" alt="beco1"> <img src="/digital-cv/images/beco2.webp" alt="beco2" class="img-right"> <img src="/digital-cv/images/beco3.webp" alt="beco3" class="img-right"> <img src="/digital-cv/images/beco4.webp" alt="beco4" class="img-right">
           </div></center>
+           
       - layout: top-middle
         title: JRS Mobile
         link: https://www.jrs-express.com/
