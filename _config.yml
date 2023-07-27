@@ -64,7 +64,7 @@ content:
         link: https://apps.apple.com/ph/app/inspectorio-sight/id1533620438
         link_text: App Store
         quote: >
-         The largest Saas application I have contributed.
+         The largest SaaS application I have contributed.
         description: |  # this will include new lines to allow paragraphs
           
           <center><div class="images-container">
@@ -176,7 +176,7 @@ content:
         quote: >
           The Inspectorio Platform helps Brands, Retailers, Vendors and Factories to improve their Quality, Compliance and Delivery operations through actionable insights and data-driven collaboration.
         description: | # this will include new lines to allow paragraphs
-          - Using Swift, SwiftUI and RxSwift for building native Saas applications
+          - Using Swift, SwiftUI and RxSwift for building native SaaS applications
           
           - Using Clean Architecture, MVVM, Factory, Abstract Factory, View Model Input-Output Pattern, Facade, Singleton, Command, State, Strategy and Proxy
           
