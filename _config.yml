@@ -168,6 +168,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Renren Giantly Philippines, Inc./ Moatable
+        link: https://inspectorio.com
+        link_text: https://www.moatable.com
+        sub_title: iOS Engineer
+        caption: August 2023 - Present
+        quote: >
+          TMoatable provides management expertise, support services, and capital to help our SaaS businesses grow, scale, and reach their full potential.
+        description: | # this will include new lines to allow paragraphs
+          - Using Swift and React Native for building truck-safe routing and navigation Saas app
+
+          - Using Jenkins for CI/CD
+
+          - Using JIRA for project management
+
+          - Effective collaboration with global team
+          
+      - layout: left
         title: Inspectorio, Inc.
         link: https://inspectorio.com
         link_text: inspectorio.com
